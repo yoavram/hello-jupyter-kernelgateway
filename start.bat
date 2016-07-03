@@ -1,0 +1,1 @@
+jupyter kernelgateway --log-level=DEBUG --KernelGatewayApp.seed_uri=server.ipynb --KernelGatewayApp.api=notebook-http
